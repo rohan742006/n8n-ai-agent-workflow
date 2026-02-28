@@ -31,3 +31,12 @@ Add these credentials inside n8n:
 - Content generation
 - Task scheduling
 - AI workflows
+
+## Setup Requirements
+
+- OpenRouter API Key
+- SerpAPI Key
+- Gmail OAuth
+- Google Sheets OAuth
+
+After importing, configure credentials inside n8n.
